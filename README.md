@@ -14,14 +14,14 @@ In this project, I will conduct a data analysis over The Movie Database (TMDb) a
 When we broke down genres for each movie, we 'duplicated' those records in other categories, this could affect the accuracy of some aggregations and calculations.
 
 ### Software used
-+ Jupyter
++ Jupyter Notebook
 + Python 3.7
 > libraries:
 > + Pandas
 > + Numpy
 > + Matplotlib
 > + Seaborn
-+ Google Doc
++ Google Docs
 ### Files used
 + tmdb-movies.csv
 
