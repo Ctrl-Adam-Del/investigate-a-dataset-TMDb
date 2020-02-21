@@ -28,4 +28,6 @@ When we broke down genres for each movie, we 'duplicated' those records in other
 ### Credits
 + Data provided by: [kaggle](https://www.kaggle.com/tmdb/tmdb-movie-metadata)
 + Instruction and assist: [Become a Data Analyst Nanodegree](https://www.udacity.com/course/data-analyst-nanodegree--nd002)
-+ Inspiration: [How do I use the MultiIndex in pandas?](https://youtu.be/tcRGa2soc-c)
++ Inspiration:
+> + [How do I use the MultiIndex in pandas?](https://youtu.be/tcRGa2soc-c)
+> + [build function](https://knowledge.udacity.com/questions/72926)
